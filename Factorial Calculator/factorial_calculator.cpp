@@ -28,7 +28,7 @@ void factorial_iteration(){
 int main(int argc, char const *argv[])
 {
     factorial_recursion(7,1); 
-    //factorial_iteration();
+    factorial_iteration();
     return 0;
 }
 
